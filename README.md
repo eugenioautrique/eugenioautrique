@@ -1,7 +1,7 @@
 <h1 align="center">Eugenio Autrique</h1>
 
 <h2>👋 Hi there, welcome!!</h2>
-<p>I'm a <strong>24-years-old</strong>, <strong>programmer</strong> based in Madrid, Spain, and I´m passionate about finance and sports realated topics.</p>
+<p>I'm a <strong>24-years-old</strong>, <strong>programmer</strong> based in Madrid, Spain and I´m passionate about finance and sports realated topics.</p>
 
 <h2>🚀 About Me</h2>
 <ul>
