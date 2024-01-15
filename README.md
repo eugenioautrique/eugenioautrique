@@ -1,13 +1,13 @@
 <h1 align="center">Eugenio Autrique</h1>
 
-<h2>👋 Hi there!</h2>
-<p>I'm <strong>Eugenio</strong>, a <strong>current student</strong> with a passion for <strong>programming</strong>. Welcome to my GitHub profile!</p>
+<h2>👋 Hi there, welcome!!</h2>
+<p>I'm a <strong>24-years-old</strong>, <strong>programmer</strong> based in Madrid, Spain, and I´m passionate about finance and sports realated topics.</p>
 
 <h2>🚀 About Me</h2>
 <ul>
     <li>🎓 Education: <strong>Master in Business Analytics and Big Data</strong>, <strong>IE Business School</strong></li>
     <li>🌱 Learning: Focused on <strong>learning Python, SQL, Machine Learning</strong></li>
-    <li>🤝 Collaboration: Open to <strong>[Type of Collaboration]</strong>, especially in <strong>[Fields/Technologies of Interest]</strong></li>
+    <li>🤝 Collaboration: Open to <strong>any type of collaboration. </strong></li>
 </ul>
 
 <h2 align="left"> 🛠 Languages and Tools:</h2>
@@ -34,8 +34,15 @@
     <!-- Add more projects as needed -->
 </ul>
 
+<h2>👋🏽 Fun Facts</h2>
+<ul>
+    <li>😺 I adopted my first cat in the COVID pandemic. </li>
+    <li>⚽ Big fan of Real Madrid and playing with my friends once a week. </li>
+</ul>
+
 <h2>📫 How to Reach Me</h2>
 <ul>
     <li>LinkedIn: <a href="https://www.linkedin.com/in/eugenio-autrique/">Eugenio Autrique</a></li>
 </ul>
+
 
